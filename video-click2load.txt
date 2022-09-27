@@ -1,0 +1,11 @@
+! Title: video-click2load
+! Author: Synvie
+! Homepage: https://github.com/synvie92/video-click2load
+!
+! Youtube
+||youtube-nocookie.com/embed/$3p,frame,redirect=click2load.html
+||youtube.com/embed/$3p,frame,redirect=click2load.html
+!
+! Twitch
+player.twitch.tv/*$3p,frame
+||player.twitch.tv/*$3p,frame,redirect=click2load.html
